@@ -3,4 +3,7 @@
 This is a project built following step by step the course Complete React Developer 2019 on Udemy.
 
 1. Set up the project with create-react-app, add node-sass, create homepage-component.jsx and homepage.styles.scss;
-2. Project Component Architecture: components and pages folder;
+2. Project Component Architecture:
+  a. pages folder: homepage;
+  b. components folder: directory and menu-item;
+
