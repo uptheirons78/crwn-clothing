@@ -6,4 +6,4 @@ This is a project built following step by step the course Complete React Develop
 2. Project Component Architecture:
   a. pages folder: homepage;
   b. components folder: directory and menu-item;
-
+3. Added React Router;
