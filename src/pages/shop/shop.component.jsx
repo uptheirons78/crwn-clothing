@@ -12,10 +12,7 @@ export default class shopPage extends Component {
   }
 
   render() {
-    console.log(this.state);
-    console.log(this.state.collections);
     const { collections } = this.state;
-    console.log(collections);
     return (
       <div className="shop-page">
         {

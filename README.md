@@ -9,3 +9,5 @@ This is a project built following step by step the course Complete React Develop
 3. Added React Router;
 4. Added Shop Page and Collection Preview Component;
 5. Added Collection Item Component;
+6. Added Header Component;
+7. Added Sign Up and Sign In page, Sign-in Component, Form-Input Component and a Custom Button Component;
