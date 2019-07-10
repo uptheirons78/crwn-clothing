@@ -7,3 +7,5 @@ This is a project built following step by step the course Complete React Develop
   a. pages folder: homepage;
   b. components folder: directory and menu-item;
 3. Added React Router;
+4. Added Shop Page and Collection Preview Component;
+5. Added Collection Item Component;
