@@ -13,3 +13,4 @@ This is a project built following step by step the course Complete React Develop
 7. Added Sign Up and Sign In page, Sign-in Component, Form-Input Component and a Custom Button Component;
 8. Integrated Firebase in project, added sign-in and sign-out buttons, added sign in with Google button (using OAuth);
 9. Added .env file to protect private API Key before pushing project files on Github;
+10. Added Sign Up and Sign In using Firebase FireStore Database;
